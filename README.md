@@ -2,7 +2,7 @@ BKSegmentedViewControllers
 ==========================
 This controls works like Tabbar ( you can set it anywhere ), connect your scenes in storyboard to buttons (Toolbar or any UIControl with IBAction) and you can design your views seperately on each view controller. 
 
-It makes of life of a developer so easy who has to manage many views in one viewController.
+It makes life of a developer so easy who has to manage many views in one viewController enjoy happy coding.
 
 
 Works On
