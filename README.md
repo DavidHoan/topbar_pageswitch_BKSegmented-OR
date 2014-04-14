@@ -6,6 +6,7 @@ Example show works like Tabbar but you can set it anywhere on the screen.
 
 It makes life of a developer so easy who has to manage many views in one viewController enjoy happy coding.
 
+<p align="left"><img src="http://cl.ly/image/3m1I0k1I1J39/BKSegementedController.png"/></p>
 
 Works On
 =======================
@@ -16,8 +17,11 @@ Installation
 =======================
 Just drag n drop `BKSegmentedVCSegue.h`,`BKSegmentedVCSegue.m` files 
 and Declare a property in Container/MainViewController in which you want to swap different view controller.
-<br/>
+<br/> Create an IBOutlet of an UIView as follows 
 `@property (strong, nonatomic) IBOutlet UIView *containerView;`
+Ctrl + Drag from UIButton/UIControl to viewController and select custom segue/BKSegmentedVCSegue.
+
+That's it with just two 2 files incluse and connecting segue your you are up and ready to run your project
 
 
 Contributions
