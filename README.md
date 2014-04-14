@@ -10,7 +10,7 @@ It makes life of a developer so easy who has to manage many views in one viewCon
 
 Works On
 =======================
-Works on iOS 5.0+ Designed for ios 7.0.
+Works on iOS 5.0+, Designed for ios 7.0.
 
 
 Installation
@@ -21,7 +21,7 @@ and Declare a property in Container/MainViewController in which you want to swap
 `@property (strong, nonatomic) IBOutlet UIView *containerView;`
 Ctrl + Drag from UIButton/UIControl to viewController and select custom segue/BKSegmentedVCSegue.
 
-That's it with just two 2 files incluse and connecting segue your you are up and ready to run your project
+That's it with just two 2 files inclusion and connecting segues, you are up and ready to run your project.
 
 
 Contributions
