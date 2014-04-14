@@ -7,7 +7,7 @@ It makes of life of a developer so easy who has to manage many views in one view
 
 Works On
 =======================
-Works on iOS 5.0+ best suited for ios 7.0.
+Works on iOS 5.0+ Designed for ios 7.0.
 
 
 Installation
