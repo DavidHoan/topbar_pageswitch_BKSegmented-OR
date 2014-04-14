@@ -1,6 +1,8 @@
 BKSegmentedViewControllers
 ==========================
-This controls works like Tabbar ( you can set it anywhere ), connect your scenes in storyboard to buttons (Toolbar or any UIControl with IBAction) and you can design your views seperately on each view controller. 
+Connect your scenes in storyboard to buttons (Toolbar or any UIControl with IBAction) 
+One viewController can display multiple viewController. 
+Example show works like Tabbar but you can set it anywhere on the screen.
 
 It makes life of a developer so easy who has to manage many views in one viewController enjoy happy coding.
 
@@ -12,9 +14,10 @@ Works on iOS 5.0+ Designed for ios 7.0.
 
 Installation
 =======================
-Just drag n drop BKSegmentedVCSegue.h,BKSegmentedVCSegue.m files 
+Just drag n drop `BKSegmentedVCSegue.h`,`BKSegmentedVCSegue.m` files 
 and Declare a property in Container/MainViewController in which you want to swap different view controller.
-@property (strong, nonatomic) IBOutlet UIView *containerView;
+<br/>
+`@property (strong, nonatomic) IBOutlet UIView *containerView;`
 
 
 Contributions
