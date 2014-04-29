@@ -1,4 +1,4 @@
-BKSegmentedViewControllers
+BKSegmented-OR-TabbarViewController
 ==========================
 Connect your scenes in storyboard to buttons (Toolbar or any UIControl with IBAction) 
 One viewController can display multiple viewController. 
